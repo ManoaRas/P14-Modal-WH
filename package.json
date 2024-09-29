@@ -1,13 +1,17 @@
 {
   "name": "@manoaras/p14-modal-wh",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "description": "React Modal for project 14 of OpenClassrooms",
   "author": "Manoa Rasolomalala",
   "main": "index.js",
   "module": "dist/index.js",
   "files": ["dist", "README.md"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ManoaRas/P14-Modal-WH.git"
+    "url": "git+https://github.com/manoaras/p14-modal-wh.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "start": "react-scripts start",
