@@ -7,7 +7,7 @@
   "files": ["dist", "README.md"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ManoaRas/P14-Modal-WH"
+    "url": "git+https://github.com/ManoaRas/P14-Modal-WH.git"
   },
   "scripts": {
     "start": "react-scripts start",
