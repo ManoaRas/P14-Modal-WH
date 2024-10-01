@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 `npm install p14-modal-wh`
 
+## To build the modal
+
+`npm run build` or `yarn build`
+
 ## Utilisation
 
 ```
